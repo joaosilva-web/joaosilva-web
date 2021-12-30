@@ -5,7 +5,7 @@
       🔭 Hoje trabalho com front-end
     </li>
     <li>
-      🌱 Estou estudando ReactJS
+      🌱 Estou estudando NodeJS
     </li>
     <li>
       📫 Contate-me no e-mail: joaogustavosilva2001@gmail.com
