@@ -2,10 +2,10 @@
 <h1 style="color: #fdfdfd;">Olá, me chamo João Gustavo Ribeiro da Silva,<br><span>é um prazer ter você por aqui!</span></h1>
   <ul>
     <li>
-      🔭 Hoje trabalho com front-end
+      🔭 Hoje trabalho como Dev Backend(NodeJS)
     </li>
     <li>
-      🌱 Estou estudando NodeJS
+      🌱 Estou estudando ReactNative
     </li>
     <li>
       📫 Contate-me no e-mail: joaogustavosilva2001@gmail.com
