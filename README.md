@@ -2,7 +2,7 @@
 <h1 style="color: #fdfdfd;">Olá, me chamo João Gustavo Ribeiro da Silva,<br><span>é um prazer ter você por aqui!</span></h1>
   <ul>
     <li>
-      🔭 Hoje trabalho como Dev Backend(NodeJS)
+      🔭 Hoje trabalho como Dev Javascript (NodeJS e ReactJS)
     </li>
     <li>
       🌱 Estou estudando ReactNative
