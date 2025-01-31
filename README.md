@@ -1,19 +1,19 @@
-        <h1>Olá! 👋</h1>
-        <p>Sou um <strong>desenvolvedor full-stack</strong> apaixonado por tecnologia, sempre buscando criar soluções escaláveis e performáticas.</p>
+👋 Olá! Eu sou João Gustavo Ribeiro da Silva
+💻 Desenvolvedor Full-Stack | Next.js | TypeScript | GraphQL
+🚀 Apaixonado por tecnologia, desenvolvimento web e soluções escaláveis.
 
-        <h2>💡 Tecnologias</h2>
-        <ul>
-            <li><strong>Front-end:</strong> Next.js, React, TypeScript, Tailwind CSS</li>
-            <li><strong>Back-end:</strong> Node.js, GraphQL, PostgreSQL, MongoDB</li>
-            <li><strong>Ferramentas:</strong> Git, GitHub, Vercel, Docker</li>
-        </ul>
+🔹 Sobre mim
+🎯 Trabalho com Next.js, TypeScript, Node.js e GraphQL, criando aplicações performáticas e bem estruturadas.
+📚 Sempre aprendendo e explorando novas tecnologias.
+🎨 No tempo livre, pratico pintura como hobby.
 
-        <h2>🎨 Hobbies</h2>
-        <p>Pintura, explorar novas tecnologias e construir projetos inovadores.</p>
+💡 Tech Stack
+🔹 Front-end: Next.js, React, TypeScript, Tailwind CSS
+🔹 Back-end: Node.js, GraphQL, PostgreSQL, MongoDB
+🔹 Ferramentas: Git, GitHub, Docker, Vercel
+🔹 Metodologias: Agile, Clean Code, Code Review
 
-        <h2>📫 Conecte-se comigo</h2>
-        <p>
-            <a href="https://seuportfolio.com" target="_blank">Portfólio</a> |
-            <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">LinkedIn</a> |
-            <a href="https://github.com/seu-usuario" target="_blank">GitHub</a>
-        </p>
+📫 Conecte-se comigo
+🔗 LinkedIn
+🌎 Meu Portfólio (em breve!)
+📂 GitHub
