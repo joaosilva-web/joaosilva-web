@@ -1,22 +1,19 @@
-    <name>Seu Nome</name>
-    <role>Desenvolvedor Full-Stack</role>
-    <description>
-        Desenvolvedor full-stack apaixonado por tecnologia e inovação. 
-        Trabalho com Next.js, TypeScript, GraphQL e outras tecnologias modernas. 
-        Sempre buscando aprender e criar soluções escaláveis e performáticas.
-    </description>
-    <skills>
-        <frontend>Next.js, React, TypeScript, Tailwind CSS, Styled Components</frontend>
-        <backend>Node.js, GraphQL, PostgreSQL, MongoDB</backend>
-        <tools>Git, GitHub, Vercel, Docker</tools>
-        <methodologies>Agile, Clean Code, Code Review</methodologies>
-    </skills>
-    <hobbies>
-        <hobby>Pintura</hobby>
-        <hobby>Explorar novas tecnologias</hobby>
-    </hobbies>
-    <links>
-        <portfolio>https://seuportfolio.com</portfolio>
-        <linkedin>https://www.linkedin.com/in/seu-perfil</linkedin>
-        <github>https://github.com/seu-usuario</github>
-    </links>
+        <h1>Olá! 👋</h1>
+        <p>Sou um <strong>desenvolvedor full-stack</strong> apaixonado por tecnologia, sempre buscando criar soluções escaláveis e performáticas.</p>
+
+        <h2>💡 Tecnologias</h2>
+        <ul>
+            <li><strong>Front-end:</strong> Next.js, React, TypeScript, Tailwind CSS</li>
+            <li><strong>Back-end:</strong> Node.js, GraphQL, PostgreSQL, MongoDB</li>
+            <li><strong>Ferramentas:</strong> Git, GitHub, Vercel, Docker</li>
+        </ul>
+
+        <h2>🎨 Hobbies</h2>
+        <p>Pintura, explorar novas tecnologias e construir projetos inovadores.</p>
+
+        <h2>📫 Conecte-se comigo</h2>
+        <p>
+            <a href="https://seuportfolio.com" target="_blank">Portfólio</a> |
+            <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">LinkedIn</a> |
+            <a href="https://github.com/seu-usuario" target="_blank">GitHub</a>
+        </p>
