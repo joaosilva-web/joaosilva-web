@@ -44,11 +44,8 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 | Minhas Estatísticas                                                                                                                                                         | Principais Linguagens                                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![João Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=joaosilva-web&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-web&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
- |
- ![Most Used Repos](https://github-readme-stats.vercel.app/api/pin/?username=joaosilva-web&repo=target-sistemas-processo-seletivo&theme=jolly)
-![João Gustavo's commit streak](https://streak-stats.demolab.com/?user=joaosilva-web&theme=jolly&hide_border=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaosilva-web&theme=react-dark)
+| ![João Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=joaosilva-web&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-web&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaosilva-web&theme=react-dark) |
 
 
 💬 Quer me conhecer?
