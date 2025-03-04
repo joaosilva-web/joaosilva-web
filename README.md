@@ -38,7 +38,7 @@
 
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,nodejs,typescript,nextjs,postgresql)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,nodejs,typescript,nextjs,postgresql,graphql)](https://skillicons.dev)
 
 ---
 
