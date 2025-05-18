@@ -20,7 +20,7 @@
 </p>
 
 - 🌱 Atualmente aprendendo e aprofundando conceitos de **Next.js, Flutter e Java**.  
-- 🚀 Buscando recolocação no mercado de tecnologia.  
+- 🚀 Buscando evolução no mercado de tecnologia.  
 - 📫 **Email:** joaogustavosilva2024@gmail.com  
 
 ---
@@ -29,7 +29,7 @@
 
 - 📂 Criar meu **portfólio** ✅  
 - 🤝 Contribuir em **projetos open-source** 🟡 (em andamento)  
-- 📈 Me aprimotat e ganhar **mais experiência** 🔜  
+- 📈 Me aprimotar e ganhar **mais experiência** 🔜  
 - 📖 Expandir meus **conhecimentos** com cursos, livros e conexões profissionais ✅  
 
 ---
