@@ -19,7 +19,7 @@
   </em>
 </p>
 
-- 🌱 Atualmente revisando e aprofundando conceitos de **JavaScript, React.js e Node.js**.  
+- 🌱 Atualmente aprendendo e aprofundando conceitos de **Next.js, Flutter e Java**.  
 - 🚀 Buscando recolocação no mercado de tecnologia.  
 - 📫 **Email:** joaogustavosilva2024@gmail.com  
 
@@ -29,7 +29,7 @@
 
 - 📂 Criar meu **portfólio** ✅  
 - 🤝 Contribuir em **projetos open-source** 🟡 (em andamento)  
-- 📈 Me recolocar no mercado e ganhar **mais experiência** 🔜  
+- 📈 Me aprimotat e ganhar **mais experiência** 🔜  
 - 📖 Expandir meus **conhecimentos** com cursos, livros e conexões profissionais ✅  
 
 ---
@@ -47,9 +47,6 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 | Estatísticas Gerais | Principais Linguagens |
 | ------------------- | ------------------- |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosilva-web&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-web&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
-
-📊 **Gráfico de Atividade**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaosilva-web&theme=react-dark)
 
 ---
 
