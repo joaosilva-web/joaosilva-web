@@ -27,10 +27,10 @@
 
 ## 📊 Metas para 2025
 
-- 📂 Criar meu **portfólio** ✅  
-- 🤝 Contribuir em **projetos open-source** 🟡 (em andamento)  
-- 📈 Me aprimotar e ganhar **mais experiência** 🔜  
-- 📖 Expandir meus **conhecimentos** com cursos, livros e conexões profissionais ✅  
+- 📂 Criar meu **portfólio** 
+- 🤝 Contribuir em **projetos open-source** 🟡
+- 📈 Me aprimotar e ganhar **mais experiência** 
+- 📖 Expandir meus **conhecimentos** com cursos, livros e conexões profissionais 
 
 ---
 
