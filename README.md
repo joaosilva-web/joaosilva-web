@@ -12,7 +12,7 @@
 ## 🚀 Sobre mim
 - 🌱 Atualmente estudando: **Full Stack — JavaScript | TypeScript | React | Next | Node | Prisma | PostgreSQL**
 - 💡 Apaixonado por tecnologia, resolver problemas e transformar ideias em soluções reais
-- 🎯 Buscando meu primeiro estágio como dev
+- 🎯 Buscando me aprimorar como dev
 - 💻 Empreendendo, codando e aprendendo todos os dias
 - 🔥 Meu ikigai é: usar código pra facilitar a vida das pessoas
 
@@ -44,11 +44,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosilva-web&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva-web&layout=compact&theme=radical"/>
 </div>
-
----
-
-## 🐍 Snake Game dos Commits
-![snake gif](https://github.com/joaosilva-web/joaosilva-web/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
