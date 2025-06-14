@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="banner do perfil" width="100%" />
+</p>
+
 # 👋🏼 E aí, eu sou o Jão!
 
 **Quebro problemas e construo soluções. Com código. Por você. 🤟🏼🫵🏼**  
