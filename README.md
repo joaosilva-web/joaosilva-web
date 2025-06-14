@@ -48,7 +48,7 @@
 ---
 
 ## 🐍 Snake Game dos Commits
-![snake gif](https://github.com/joao-frontend-developer/joaosilva-web/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/joaosilva-web/joaosilva-web/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
