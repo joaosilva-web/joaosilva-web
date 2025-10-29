@@ -1,9 +1,4 @@
 # 👋🏼 E aí, eu sou o Jão!
-<p align="center">
-  <img src="banner.png" alt="banner do perfil" width="100%" />
-</p>
-
----
 
 ## 🚦 Open to Work
 **Estágio | Freelance | Colaborações**
