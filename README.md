@@ -21,7 +21,7 @@
 
 ## 🏆 Projetos em Destaque
 | Projeto | Descrição | Tecnologias | Status | Link |
-|---------|-----------|--------------|------|
+|---------|-----------|--------------|------|--------|
 | **TôLivre** | Plataforma de agendamento, lembretes e cobrança para autônomos | Next.js, Node.js, Prisma, PostgreSQL | Em desenvolvimento | [Acesse aqui](to-livre.vercel.app) |
 | **Cash Flow** | Cash Flow é um sistema de gestão financeira simples e intuitivo | React, Chakra UI, React Rewards | Em desenvolvimento | [Acesse aqui](https://cash-flow-dusky.vercel.app/) |
 | **Landing Pages Profissionais** | Desenvolvimento de páginas para negócios locais | Next.js, Tailwind CSS | Sob demanda |[Acesse aqui](to-livre.vercel.app) |
