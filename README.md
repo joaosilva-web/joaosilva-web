@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 🌱 Atualmente estudando: **Full Stack — JavaScript | TypeScript | React | Next | Node | Prisma | PostgreSQL**
+- 🌱 Atualmente estudando: **Full Stack — JavaScript | TypeScript | Vue | Nuxt | Node | Prisma | PostgreSQL**
 - 💡 Apaixonado por tecnologia, resolver problemas e transformar ideias em soluções reais
 - 🎯 Buscando me aprimorar como dev
 - 💻 Empreendendo, codando e aprendendo todos os dias
