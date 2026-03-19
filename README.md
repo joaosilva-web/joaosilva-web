@@ -22,7 +22,7 @@ Atualmente estou desenvolvendo o **TôLivre**, um SaaS de agendamentos e pagamen
 | Projeto | Descrição | Stack | Status | Link |
 |--------|-----------|-------|--------|------|
 | **TôLivre** | SaaS de agendamento e pagamentos para profissionais autônomos | Next.js, TypeScript, Node.js, PostgreSQL | Em desenvolvimento | https://tolivre.app |
-| **FlashLearn** | Plataforma de aprendizado baseada em repetição espaçada para memorização eficiente | React, TypeScript | Em desenvolvimento | — |
+| **FlashLearn** | Plataforma de aprendizado baseada em repetição espaçada para memorização eficiente | React, TypeScript | Em desenvolvimento | https://flashcards-peach-five.vercel.app/ |
 | **Portfólio** | Meu site pessoal com foco em apresentação profissional, projetos e posicionamento | Next.js, Tailwind CSS | Online | https://silva-portfolio-beta.vercel.app/ |
 
 📌 *Gosto de construir produtos com foco em clareza, boa experiência de uso e código sustentável.*
