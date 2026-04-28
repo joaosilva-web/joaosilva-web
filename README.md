@@ -71,13 +71,13 @@ Atualmente estou desenvolvendo o **TôLivre**, um SaaS de agendamentos e pagamen
 ### **TôLivre** — Projeto próprio  
 Desenvolvimento de um SaaS completo de agendamentos e pagamentos para profissionais autônomos.
 
-### **Myse Sistemas** — Desenvolvedor Full Stack  
+### **Myse Sistemas** — Estágio em desenvolvimento Full Stack  
 Atuação no desenvolvimento e manutenção de sistemas web, interfaces, integrações e melhorias contínuas.
 
-### **App Masters** — Desenvolvedor Front-end  
+### **App Masters** — Estágio em desenvolvimento Front-end  
 Construção de interfaces com React e TypeScript, consumo de APIs e criação de componentes reutilizáveis.
 
-### **Continium** — Desenvolvedor Full Stack  
+### **Continium** — Estágio em desenvolvimento Full Stack  
 Atuação com React, Node.js, AdonisJS e PostgreSQL no desenvolvimento de aplicações web completas.
 
 ---
