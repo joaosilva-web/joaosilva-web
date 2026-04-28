@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor full stack com cerca de 4 anos de experiência criando aplicações web e transformando ideias em produtos digitais funcionais, escaláveis e bem estruturados.
+Sou desenvolvedor full stack com cerca de 2 anos de experiência criando aplicações web e transformando ideias em produtos digitais funcionais, escaláveis e bem estruturados.
 
 Tenho experiência com **front-end e back-end**, atuando na construção de interfaces modernas, APIs, integrações, modelagem de dados e arquitetura de aplicações. Trabalho principalmente com **JavaScript, TypeScript, React, Next.js, Node.js e PostgreSQL**.
 
